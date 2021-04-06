@@ -1,5 +1,6 @@
 ﻿using ctci.Contracts;
 using ctci.Library;
+
 using System;
 
 namespace Chapter05
